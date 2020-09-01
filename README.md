@@ -384,7 +384,7 @@ Linux chmod example
 `fdisk -l`
 
 #### Display disk usage for all files and directories in human readable format
-du -ah
+`du -ah`
 
 #### Display total disk usage off the current directory
 `du -sh`
